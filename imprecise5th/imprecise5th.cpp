@@ -9,4 +9,12 @@ int main() {
 		              - one_fifth - one_fifth;
 	std::cout << "one = " << one << ", one_fifth = " << one_fifth
 		      << ", zero = " << zero << '\n';
+	int x, y;
+	std::cout << "Please enter two numbers: ";
+	std::cin >> x >> y;
+	std::cout << x << "/" << y << " = " << x / y << '\n';
+	std::cout << "all done\n";
+	x = x + 1;
+	x++;
+	++x;
 }
