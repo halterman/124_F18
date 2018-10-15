@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "averagenumbers", "averagenu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "averagenumbers2", "averagenumbers2\averagenumbers2.vcxproj", "{DF9C7E4C-B63C-4739-B5F6-BC75D248D1EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "count_primes", "count_primes\count_primes.vcxproj", "{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{DF9C7E4C-B63C-4739-B5F6-BC75D248D1EE}.Release|x64.Build.0 = Release|x64
 		{DF9C7E4C-B63C-4739-B5F6-BC75D248D1EE}.Release|x86.ActiveCfg = Release|Win32
 		{DF9C7E4C-B63C-4739-B5F6-BC75D248D1EE}.Release|x86.Build.0 = Release|Win32
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Debug|x64.ActiveCfg = Debug|x64
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Debug|x64.Build.0 = Debug|x64
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Debug|x86.Build.0 = Debug|Win32
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Release|x64.ActiveCfg = Release|x64
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Release|x64.Build.0 = Release|x64
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Release|x86.ActiveCfg = Release|Win32
+		{6A78F88C-E20F-4071-B765-FBBC7F90F3A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
