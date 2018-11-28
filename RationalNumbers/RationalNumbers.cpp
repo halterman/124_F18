@@ -41,5 +41,4 @@ int main() {
 
 	std::cout << fract1 << " * " << fract3 << " = " 
 		      << fract1*fract3 << '\n';
-	std::cout << std::boolalpha << true << " " << false << '\n';
 }
